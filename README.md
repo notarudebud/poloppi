@@ -18,3 +18,6 @@
 - Yes, everyone and i mean anyone can just either __delete__ or __leave the data alone__
 - Anyone can delete the data if they figure out how, as i won't be adding any security measures
 - Why so? there won't be any Authentication so there's basically no point in adding security for basic data.
+
+# Opensource
+- This site is completely opensourced, free to use for everyone. 
