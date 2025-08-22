@@ -1,5 +1,5 @@
 # What is this game about
-- A pixel game in where theres 4(current) characters __emma, supra, zyth & niche__, anyone can interact with these 4 characters.
+- A pixel game where you take care of a poloppi pet __zyth__
 
 # What do you do in this game?
 - You feed the characters, exercise them and alot of other stuff.
