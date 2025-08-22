@@ -1,9 +1,6 @@
 # What is this game about
 - A pixel game in where theres 4(current) characters __emma, supra, zyth & niche__, anyone can interact with these 4 characters.
 
-# Stolen?
-- No, all characters are hand drawn by __notarudebud__, small inspirations taken from Pinterest.
-
 # What do you do in this game?
 - You feed the characters, exercise them and alot of other stuff.
 
