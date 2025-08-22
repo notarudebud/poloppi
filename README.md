@@ -2,7 +2,7 @@
 - A pixel game where you take care of a poloppi pet __zyth__
 
 # What do you do in this game?
-- You feed the characters, exercise them and alot of other stuff.
+- You feed the character zyth, exercise zyth and alot of other stuff.
 
 # Developers:
 - (notarudebud) Github: https://github.com/notarudebud
